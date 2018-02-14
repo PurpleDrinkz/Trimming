@@ -16,7 +16,7 @@ using Microsoft.Win32;
 using NAudio.Wave;
 using NAudio.Wave.SampleProviders;
 using System.Windows.Threading;
-
+ 
 namespace Playback
 {
     /// <summary>
